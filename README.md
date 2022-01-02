@@ -56,6 +56,7 @@ Having understood what privacy impact is and how it can be measured, one just ne
 |Identification + Prejudicial Effects| <4 | 4-5 | 6 | 7 | >7 |
 |-|----|-----|---|---|----|
 |Impact|Very Low|Low|Moderate|High|Very High|
+
 Table 3 – Proposed normalization scale by SGTF18, source: [6]
 
 
@@ -76,6 +77,8 @@ Figure 2 - Visual rundown of assessing privacy risk, source: [3], [4]
 
 
 As described in Figure 2, having identified the likelihood levels of the system, these can be paired with the privacy impact scores, creating a 5x5 risk matrix similar to the one described in Figure 3. The level which results of the matching pair in the matrix identifies the overall risk of the threat category.
+
+
  ![ privacy_risk_matrix_example](https://raw.githubusercontent.com/freitzzz/trp-tp2/master/report/figures/privacy_risk_matrix_example.png) 
 
 
